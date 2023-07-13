@@ -1,3 +1,7 @@
+## Title
+### 엄청난 부자2
+- Link : [Baekjoon 1271](https://www.acmicpc.net/problem/1271)
+
 ### Problem
 갑부 최백준 조교는 동전을 최소로 바꾸는데 성공했으나 김재홍 조교가 그 돈을 발견해서 최백준 조교에게 그 돈을 나누자고 따진다.
 

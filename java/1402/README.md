@@ -1,3 +1,7 @@
+## Title
+### 아무래도 이 문제는 A번 난이도인것 같다
+- Link : [Baekjoon 1402](https://www.acmicpc.net/problem/1402)
+
 ### Problem
 어떤 정수 A가 있으면 그 수를 A = a1 * a2 * a3 * a4 ... * an으로 했을 때 A' = a1 + a2 + a3 ... + an이 성립하면 "A는 A'으로 변할 수 있다"라고 한다. (ai는 정수) 만약 A'이 A"으로 변할 수 있으면 "A는 A"으로 변할 수 있다"라고 한다.
 
