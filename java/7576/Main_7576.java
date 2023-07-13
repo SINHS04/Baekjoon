@@ -20,7 +20,7 @@ public class Main_7576 {
       for (int j = 0; j < M + 2; ++j) {
         tomato[i][j] = -1;
       }
-    }
+    } 
     for (int i = 1; i < N + 1; ++i) {
       st = new StringTokenizer(br.readLine());
       for (int j = 1; j < M + 1; ++j) {
