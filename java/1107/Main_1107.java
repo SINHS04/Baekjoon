@@ -38,7 +38,7 @@ public class Main_1107 {
     System.out.println(min);
   }
 
-  public static void check(int n) {
+  public static boolean check(int n) {
     String str = String.valueOf(n);
     boolean buttonPress = true;
     for (int j = 0; j < str.length(); ++j) {
@@ -49,7 +49,8 @@ public class Main_1107 {
     }
     if (buttonPress) {
       min = Math.min(min, Math.abs(N - n) + str.length());
-      return;
+      return true;
     }
+    return false;
   }
 }
